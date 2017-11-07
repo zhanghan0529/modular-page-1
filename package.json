@@ -1,0 +1,17 @@
+{
+  "name": "modular-pahe-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".router.js",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
